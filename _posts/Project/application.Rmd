@@ -1,0 +1,22 @@
+---
+title: "R Shiny Application"
+author:
+  - name: Li Yumeng, Liang Yingfang, Shen Xiaojing 
+  
+date: 08-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# R Shiny Application
+
+Our shiny app  is available at:
+[R-shiny Link](https://yfliang2020.shinyapps.io/project_shiny/)
+
+The source code and data are available at:
+[Shiny Github](https://github.com/yfliang2020/project_shiny)
