@@ -1,9 +1,11 @@
 ---
-title: "About this blog"
-description: 
-  Reference:https://vast-challenge.github.io/2021/MC2.html
+title: "Poster"
+
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](image/13.jpg){width=120%}
